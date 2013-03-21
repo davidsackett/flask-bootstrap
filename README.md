@@ -8,7 +8,7 @@ Bootstrap.
 1. Clone Github repo
 
     ```
-    git clone ... <project name>
+    git clone git://github.com/davidsackett/flask-bootstrap.git <project name>
     ```
 
 2. Setup the Virtual Environment (must have pip and virtualenv installed)
