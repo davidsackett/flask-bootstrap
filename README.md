@@ -16,7 +16,7 @@ Bootstrap.
     ```
     cd <project name>
     cd .venv
-    virtualenv init
+    virtualenv .
     . ./bin/activiate
     # install dependencies (just Flask right now)
     pip install -r requirements.txt
